@@ -1,0 +1,13 @@
+I"S<h4 id="20231222">2023.12.22</h4>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Complete material requirement.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Continue reading paper.
+    <ul>
+      <li>A. Madry, A. Makelov, L. Schmidt, D. Tsipras, and A. Vladu, ‘Towards Deep Learning Models Resistant to Adversarial Attacks’. arXiv, Sep. 04, 2019. Accessed: Dec. 21, 2023. [Online]. Available: http://arxiv.org/abs/1706.06083</li>
+    </ul>
+  </li>
+  <li class="task-list-item">Config DNS proxy on cloudflare and github pages for sub-domains (work.litianhao.life and blog.litianhao.life).</li>
+  <li class="task-list-item">Assist the configuration of server at NSFOCUS.</li>
+</ul>
+:ET

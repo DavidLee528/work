@@ -3,7 +3,12 @@ layout: page
 permalink: /
 ---
 
-### Collect. Connect. Create.
+This is a sub-site of my homepage [litianhao.life](https://litianhao.life/), main purposes are:
+
+- Record my daliy works
+- Share technical projects
+
+<!-- ### Collect. Connect. Create.
 
 [[“There is nothing to writing. All you do is sit down at a typewriter and bleed.” <br><cite>--- Ernest Hemingway </cite>::lmn]]<mark>Welcome aboard!</mark> This project began development in late 2020 and is intended to serve three purposes:[[“Blogging is to writing what extreme sports are to athletics: more free-form, more accident-prone, less formal, more alive. It is, in many ways, writing out loud.” <br><cite>--- Andrew Sullivan</cite>::rmn]]
 
@@ -89,4 +94,4 @@ This project is built on [**Enjoyment work**](https://github.com/raghuveerdotnet
 - Supports Roam-style double bracket link syntax to other notes
 - On hover page previews
 - Features a simple and responsive design
-- Supports Markdown or HTML notes
+- Supports Markdown or HTML notes -->
