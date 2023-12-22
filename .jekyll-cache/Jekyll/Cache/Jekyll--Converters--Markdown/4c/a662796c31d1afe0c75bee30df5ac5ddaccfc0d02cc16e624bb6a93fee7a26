@@ -1,0 +1,122 @@
+I"�&<h3 id="collect-connect-create">Collect. Connect. Create.</h3>
+
+<p>[[“There is nothing to writing. All you do is sit down at a typewriter and bleed.” <br /><cite>— Ernest Hemingway </cite>::lmn]]<mark>Welcome aboard!</mark> This project began development in late 2020 and is intended to serve three purposes:[[“Blogging is to writing what extreme sports are to athletics: more free-form, more accident-prone, less formal, more alive. It is, in many ways, writing out loud.” <br /><cite>— Andrew Sullivan</cite>::rmn]]</p>
+
+<ol>
+  <li><a href="/notes"><strong>Catalogue of Notes:</strong></a>
+    <ul>
+      <li>Note-taking within this project is powerful, utilizing several unique features such as: Roam-style double bracket link syntax to other notes, auto-generated backlinks, on-hover page previews, support for responsive margin-notes,</li>
+    </ul>
+  </li>
+  <li><a href="/journals"><strong>Daily Progress Journal:</strong></a>
+    <ul>
+      <li>A more simple section for daily public writing that could be built into more complex and well-connected notes.</li>
+    </ul>
+  </li>
+  <li><a href="/posts"><strong>A Blog:</strong></a>
+    <ul>
+      <li>Finally, this Jekyll project also allows for blog posts like any other, which could be viewed as the final step for process of smart note-taking.</li>
+    </ul>
+  </li>
+</ol>
+
+<p>In essence, this is the dream website that I've always wanted to make since I began tinkering with HTML over ten years ago. As stated above, unlike regular Jekyll blogs, this blog has dedicated sections for <a href="/notes">notes</a>, as well as <a href="/journals">journal entries</a>. This is meant to encourage daily public writing, as well as the <a href="#digital-gardens-an-overview">Digital Garden</a> philosophy.</p>
+
+<p>For more examples and information, please visit the following articles:</p>
+
+<ol>
+  <li><strong>[[Exploring the features of Enjoyment work]]</strong></li>
+  <li><strong>[[Example Page to View Markdown Rendering]]</strong></li>
+  <li><strong>[[How-To Setup Enjoyment work]]</strong></li>
+</ol>
+
+<h2 id="about-enjoyment-work">About Enjoyment Work</h2>
+
+<p>The next step for Enjoyment Work is to properly configure the syntax required to work with <a href="https://obsidian.md/"><strong>Obsidian</strong></a>, a powerful knowledge base that works on top of a local folder of plain text Markdown files. Which would ultimately allow somebody to turn their Obsidian notes into an online blog by simply using the <code class="language-plaintext highlighter-rouge">_notes</code> directory.</p>
+
+<p>There are several other planned features in the <a href="[#roadmap](https://github.com/brennanbrown/enjoyment-work#roadmap)">Roadmap</a> ahead, as the project is far from perfect. It is currently using the Bootstrap 4 framework, which although is powerful and extensive, does slow thing down, along with the rather large <code class="language-plaintext highlighter-rouge">style.css</code> file which needs to be trimmed down and converted into SASS.</p>
+
+<p>If you like the idea of being able to use Jekyll as a free alternative to Roam Research, Notion, etc. then please feel free to <a href="https://github.com/brennanbrown/enjoyment-work/generate"><strong>use this template</strong></a>, or even better, contribute to this project by <a href="https://github.com/brennanbrown/enjoyment-work/pulls">submitting a pull request</a> or <a href="https://github.com/brennanbrown/enjoyment-work/issues">creating an issue</a>! First-time contributors are definitely welcomed!</p>
+
+<p>In addition, I have created two other free Jekyll themes that you might be interested in:</p>
+
+<ul>
+  <li><a href="https://github.com/brennanbrown/watery"><strong>Watery</strong></a>: A minimalist, bare-bones theme for Jekyll only using the Water.css framework while still following the best practices for accessibility and search-engine optimization.</li>
+  <li><a href="https://github.com/brennanbrown/purelog"><strong>Purelog</strong></a>: A responsive sidebar Jekyll theme using the Pure.css framework, designed for writers and bloggers of all kinds.</li>
+</ul>
+
+<h2 id="digital-gardens-an-overview">Digital Gardens: An Overview</h2>
+
+<p><mark>What exactly <i>is</i> a digital garden, you might ask?</mark> The defintion of a Digital Garden is not absolute–it is a relatively new term that has gained popularly recently, that describes online spaces that are moreso dedicated to the act of learning and growth, rather than final products. [["It's less than a blog, more than a tweet." As part of my exploration of digital gardens. <br /><cite>— Inspired by Anna and Kelly Pendergrast</cite>::rmn]]</p>
+
+<blockquote>
+  <p>"It's less about building personal internet spaces, and more of a manifesto on user experience flows and content organisation. The essay was part of a larger metaphorical conversation happening throughout the nineties around hypertext."</p>
+
+  <p>— <a href="https://maggieappleton.com/garden-history"><strong>Maggie Appleton</strong></a>:
+A Brief History &amp; Ethos of the Digital Garden.</p>
+</blockquote>
+
+<p>[["A digital garden is an online space at the intersection of a notebook and a blog, where digital grdeners share seeds of thoughts to be cultivated in public."<br /><cite> —From <a href="https://nesslabs.com/digital-garden-set-up"><strong>Ness Labs</strong></a></cite>::lmn]] As you can see, the term and idea are a bit of a rabbit hole. For a far more thorough explanation and examples of other digital gardens, please visit Maggie's repository: <a href="https://github.com/MaggieAppleton/digital-gardeners"><strong>Digital-Gardeners</strong></a>.</p>
+
+<h3 id="vocabulary">Vocabulary</h3>
+
+<ol>
+  <li><strong>Seeds</strong>
+    <ul>
+      <li>Seed your garden with quality content and cultivate your curiosity. Plant seeds in your mind garden by taking smart personal notes (taking raw notes is useless). These don't need to be written in a publishable form.</li>
+    </ul>
+  </li>
+  <li><strong>Trees</strong>
+    <ul>
+      <li>Grow your knowledge by forming new branches and connecting the dots. Write short structured notes articulating specific ideas and publish them in your digital garden.</li>
+      <li>One note in your digital garden = one idea. (what you're currently reading is such a note) Do not keep orphan notes. Thread your thoughts.</li>
+    </ul>
+  </li>
+  <li><strong>Fruits</strong>
+    <ul>
+      <li>Produce new work. These are more substantial—essays, videos, maybe a book at some point. The kind of work researchers and creatives may hope will help them live beyond their expiration date.</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="the-philosophy-of-digital-gardens">The Philosophy of Digital Gardens</h3>
+
+<p><em>NOTE: This section is largely taken from <a href="https://www.mentalnodes.com/about"><strong>Anne-Laure Le Cunff</strong></a> and her website <a href="https://www.mentalnodes.com/">MentalNodes.com</a></em></p>
+
+<p>Digital Gardens solve two problems:</p>
+
+<ol>
+  <li>Our ability to <strong>COMMUNICATE</strong> and <strong>SHARE</strong> on the internet in novel, positive ways.</li>
+  <li>Our ability to <strong>COMPRHEND</strong> and <strong>SYNTHESIZE</strong> information with emphasis on <strong>CREATIVITY</strong> rather than <strong>CONSUMPTION</strong>.</li>
+</ol>
+
+<p>[[Lavoisier once said: “Rien ne se perd, rien ne se crée, tout se transforme” — meaning: <br />“Nothing is lost, nothing is created, everything is transformed.”::lmn]] There are three simple rules to go from collector to creator:</p>
+
+<ul>
+  <li><strong>Collect</strong>. Note-taking, raw snippets, Kindle highlights + personal commentary.</li>
+  <li><strong>Connect</strong>. Link to previous notes. Do not keep orphan notes.</li>
+  <li><strong>Create</strong>. Write original article.</li>
+</ul>
+
+<p>[[Many note-takers hoard content because it gives them an illusion of knowledge. <br /><br />The best way to truly understand anything is to use the generation effect: to produce your own content, in your own words, and to share it with the world to create a feedback loop.::rmn]] The only way to learn in public is to <strong>build</strong> in public.</p>
+
+<p>Linear thinking is a ultimately a myth. Thinking is not only non-linear, it's messy. It involves a lot of back and forth, dead ends, branching, walking back, merging ideas, changing ideas, contradicting ideas. [[Our natural fear of being judged leads most people to build, learn, and think privately. But seeking validation should not be the goal of learning in public. <br /><br />Instead, the goal should be to tap into your network's collective intelligence to create constructive feedback loops.::lmn]]</p>
+
+<p>Hence why you do not keep orphan notes: Every time you write a new note, make sure to go back to previous notes and to interlink them together. Orphan notes do not contribute to the serendipitous creation of new insights. Only by connecting notes together can we go from collector to creator</p>
+
+<h2 id="attribution">Attribution</h2>
+
+<p>This project is built on <a href="https://github.com/raghuveerdotnet/simply-jekyll"><strong>Enjoyment work</strong></a> by <a href="https://github.com/raghuveerdotnet">Raghuveer S.</a> a simple yet highly functional jekyll-based theme that combines the best of different worlds. It is a minimal and distraction free theme that strives to provide maximum value all without holding back on any essential features that a user would benefit from or would desire for.</p>
+
+<h3 id="features">Features</h3>
+
+<ul>
+  <li>Based on Jekyll, a static website generator</li>
+  <li>Creates backlinks to other notes automatically</li>
+  <li>Context menu on feed to instantly see related posts and backlinks</li>
+  <li>Supports Roam-style double bracket link syntax to other notes</li>
+  <li>On hover page previews</li>
+  <li>Features a simple and responsive design</li>
+  <li>Supports Markdown or HTML notes</li>
+</ul>
+:ET
