@@ -11,4 +11,4 @@ author: Tianhao Li
 - Config DNS proxy on cloudflare and github pages for sub-domains (work.litianhao.life and blog.litianhao.life).
 - Start to build 'work.litianhao.life'.
 - Assist the configuration of server at NSFOCUS.
-- Learnt vanishing gradient problem, GoogLeNet(Three output, inception module, parameter reduce method, etc.).
+- Learnt vanishing gradient problem, GoogLeNet(Three output, inception module, parameter reduce method, etc.), neural network degradation, and ResNet.
