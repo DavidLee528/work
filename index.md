@@ -5,7 +5,7 @@ permalink: /
 
 This is a sub-site of my homepage [litianhao.life](https://litianhao.life/), main purposes are:
 
-- Record my daliy works
+- Record my daliy works, see 
 - Share technical projects
 
 <!-- ### Collect. Connect. Create.
