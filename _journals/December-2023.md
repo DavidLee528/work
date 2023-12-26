@@ -3,6 +3,11 @@ title: "December, 2023"
 author: Tianhao Li
 ---
 
+
+#### 2023.12.24
+
+- Finish weekly report submission of graduation project.
+
 #### 2023.12.22
 
 - Complete material requirement.
