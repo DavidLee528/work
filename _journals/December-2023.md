@@ -3,6 +3,16 @@ title: "December, 2023"
 author: Tianhao Li
 ---
 
+#### 2023.12.27
+
+- Review ~100 vocubularies.
+- Test SecXOps platform, output test report.
+- Read paper.
+  - N. Papernot, P. McDaniel, S. Jha, M. Fredrikson, Z. B. Celik, and A. Swami, ‘The Limitations of Deep Learning in Adversarial Settings’. arXiv, Nov. 23, 2015. Accessed: Dec. 26, 2023. [Online]. Available: http://arxiv.org/abs/1511.07528
+
+- Continue writing graduation project proposal.
+- Learnt language model based on neural network, how to train it, and other attributes.
+
 #### 2023.12.26
 
 - Continue reading paper
@@ -10,6 +20,7 @@ author: Tianhao Li
   - N. Papernot, P. McDaniel, S. Jha, M. Fredrikson, Z. B. Celik, and A. Swami, ‘The Limitations of Deep Learning in Adversarial Settings’. arXiv, Nov. 23, 2015. Accessed: Dec. 26, 2023. [Online]. Available: http://arxiv.org/abs/1511.07528 (Started)
 - Continue finishing AI threat intelligence sheet
 - Started writing graduation project (thesis) proposal.
+- Learnt basic NLP knowledge (one-hot encoding, sparse encoding, dense encoding, possibility of a sentence, etc.)
 
 #### 2023.12.24
 
