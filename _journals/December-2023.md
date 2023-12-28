@@ -3,13 +3,20 @@ title: "December, 2023"
 author: Tianhao Li
 ---
 
-#### 2023.12.27
+#### 2023.12.28
 
-- Review ~100 vocubularies.
-- Test SecXOps platform, output test report.
+- Reviewed ~100 vocubularies.
+- Obtained Chinese corpus database.
+- Updated curriculum vitae.
 - Read paper.
   - N. Papernot, P. McDaniel, S. Jha, M. Fredrikson, Z. B. Celik, and A. Swami, ‘The Limitations of Deep Learning in Adversarial Settings’. arXiv, Nov. 23, 2015. Accessed: Dec. 26, 2023. [Online]. Available: http://arxiv.org/abs/1511.07528
 
+#### 2023.12.27
+
+- Reviewed ~100 vocubularies.
+- Test SecXOps platform, output test report.
+- Read paper.
+  - N. Papernot, P. McDaniel, S. Jha, M. Fredrikson, Z. B. Celik, and A. Swami, ‘The Limitations of Deep Learning in Adversarial Settings’. arXiv, Nov. 23, 2015. Accessed: Dec. 26, 2023. [Online]. Available: http://arxiv.org/abs/1511.07528
 - Continue writing graduation project proposal.
 - Learnt language model based on neural network, how to train it, and other attributes.
 
