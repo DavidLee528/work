@@ -3,12 +3,12 @@ title: "December, 2023"
 author: Tianhao Li
 ---
 
-
 #### 2023.12.29
 
 - Reviewed ~100 vocubularies. 
 - Finish weekly report for graduation project.
-- Continue writing AI threat intelligence.
+- Continue writing AI threat intelli
+- gence.
 - Learnt basic architecture of RNN (Recurrent Neural Network).
 
 #### 2023.12.28
